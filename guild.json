@@ -113,5 +113,12 @@
          "Gewoon10Nick"
       ],
       "color":"#000000"
+   },
+   {
+      "group":"Flipper",
+      "data":[
+         "Rivea",
+      ],
+      "color":"#A020F0"
    }
 ]
